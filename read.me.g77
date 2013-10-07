@@ -1,0 +1,8 @@
+This file incidates that you have unpacked the rayinvr g77 patch.
+
+To apply patch run: patch -p0 < rayinvr_g77.diff
+
+You can then either make the binaries manually or use the build_all.bash script.
+
+
+Scott Pearse / email: scott.pearse@gmail.com / web: http://www.linkedin.com/in/scottpearse
